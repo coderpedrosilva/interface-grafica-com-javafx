@@ -3,6 +3,10 @@
 Neste repositório há recursos abrangentes sobre a criação de interfaces gráficas usando JavaFX, um framework para 
 aplicações desktop e web. 
 
+### Requisitos Necessários
+- Programa SceneBuilder instalado
+- Biblioteca JavaFX instalada
+
 A visão geral do JavaFX e o padrão MVC (Model-View-Controller) no projeto se resume a criar aplicações bem estruturadas e de 
 fácil manutenção. 
 
